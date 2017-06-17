@@ -1,0 +1,19 @@
+.isotopes{
+  .active {
+    color: #0088de;
+  }
+  img{
+    width: 100%;
+  }
+  .main-iso{
+    width: 100%;
+    .item{
+      width: 100px;
+      float: left;
+      display: inline-block;
+      .style{
+        height: 191px;
+      }
+    }
+  }
+}

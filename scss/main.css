@@ -1,0 +1,14 @@
+.isotopes .active {
+  color: #0088de; }
+.isotopes img {
+  width: 100%; }
+.isotopes .main-iso {
+  width: 100%; }
+  .isotopes .main-iso .item {
+    width: 100px;
+    float: left;
+    display: inline-block; }
+    .isotopes .main-iso .item .style {
+      height: 191px; }
+
+/*# sourceMappingURL=main.css.map */
