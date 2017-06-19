@@ -1,10 +1,10 @@
 body {
   background: #333333 !important; }
   body .isotopes {
-    margin: 13% 0; }
+    margin: 5% 0; }
     body .isotopes .iso-nav {
       text-align: center;
-      margin-bottom: 78px; }
+      margin-bottom: 60px; }
       body .isotopes .iso-nav ul li {
         color: white;
         display: inline-block;
